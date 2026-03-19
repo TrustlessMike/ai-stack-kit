@@ -1,0 +1,44 @@
+# AI Stack Kit - LLMs.txt
+# AI crawler accessibility map for stackaikit.com
+
+## Site Info
+Name: AI Stack Kit
+URL: https://stackaikit.com
+Description: Expert reviews and comparisons of AI tools for business and content creation
+Founder: Malik
+Founded: 2026
+
+## Content Sections
+
+### Tool Categories
+- AI Chatbots - Conversational AI for business
+- AI Copywriting - Content generation tools
+- Marketing Automation - AI-powered marketing
+- AI Video - Video creation and editing
+- AI Image Generators - Image creation tools
+- AI Research - Research and analysis tools
+
+### Blog Articles
+- Coming soon: AI tool reviews and comparisons
+
+### Legal Pages
+- /legal/privacy - Privacy Policy
+- /legal/terms - Terms of Service
+- /legal/disclosure - Affiliate Disclosure
+- /legal/about - About Us
+
+## Affiliate Programs
+We review and link to: Jasper, Copy.ai, Writesonic, Chatbase, Crisp, Make.com, Zapier, Synthesia, Runway, Midjourney
+
+## Structured Data
+This site implements JSON-LD schema:
+- WebSite
+- Organization
+- Article
+- Product (review)
+- FAQPage
+- BreadcrumbList
+
+## Contact
+Email: malik@stack-labs.net
+Business: Stack Labs LLC
