@@ -19,6 +19,9 @@ export const metadata: Metadata = {
   title: "AI Stack Kit | Best AI Tools & Software Reviews 2026",
   description: "Independent, unbiased reviews of AI tools and software. Compare AI writing, design, coding, automation, and productivity tools for businesses.",
   metadataBase: new URL("https://stackaikit.com"),
+  verification: {
+    google: "googleaba55ef7f6fa4725",
+  },
 };
 
 export default function RootLayout({
